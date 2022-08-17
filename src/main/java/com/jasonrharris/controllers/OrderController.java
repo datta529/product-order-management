@@ -17,6 +17,11 @@ import java.util.List;
 import java.util.Map;
 import java.util.stream.Collectors;
 
+<<<<<<< HEAD
+=======
+//change
+
+>>>>>>> ca1968f (initial commit)
 @RestController
 @SwaggerDefinition(
         info = @Info(
